@@ -1,0 +1,12 @@
+
+Tooling For Development
+    VSCode
+    Prettier
+    Nodejs
+    MYSQL
+    MYSQL Workbench
+    Github
+    React
+    Storybook
+    Postman
+
